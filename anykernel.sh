@@ -11,6 +11,7 @@ do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=lavender
+device.name2=redfin
 supported.versions=9 - 11
 supported.patchlevels=
 '; } # end properties
